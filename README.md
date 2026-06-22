@@ -3,7 +3,7 @@
 
 <!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=supriya-dv&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Supriya0405&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
 </p>
 
 <!-- TYPING HEADER -->
@@ -97,11 +97,11 @@ public class Supriya {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/supriya-dv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supriya-dv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/Supriya0405">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Supriya0405&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/supriya-dv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-dv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/Supriya0405">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supriya0405&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -111,7 +111,7 @@ public class Supriya {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=supriya-dv&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=Supriya0405&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
@@ -120,7 +120,7 @@ public class Supriya {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=supriya-dv&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Supriya0405&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -129,7 +129,7 @@ public class Supriya {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supriya-dv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Supriya0405&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -170,9 +170,9 @@ public class Supriya {
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [**DQ-FIX Agent**](https://github.com/supriya-dv) | Python · Streamlit · Groq LLM · SQLite · YAML | AI-driven data quality system with automated validation, anomaly detection, auto-repair, LLM rule generation, and real-time quality dashboards |
-| [**CuraAI – Medical Chatbot**](https://github.com/supriya-dv) | Python · Gradio · MongoDB · SQLite · STT/TTS · LLM | Voice-enabled AI healthcare assistant with symptom analysis, speech I/O, and secure patient chat history management |
-| [**Student Management on AWS**](https://github.com/supriya-dv) | AWS EC2 · RDS · VPC · Apache · PHP · MySQL | Cloud-native system with EC2–RDS integration, public/private subnet architecture, and security groups for scalable data management |
+| [**DQ-FIX Agent**](https://github.com/Supriya0405) | Python · Streamlit · Groq LLM · SQLite · YAML | AI-driven data quality system with automated validation, anomaly detection, auto-repair, LLM rule generation, and real-time quality dashboards |
+| [**CuraAI – Medical Chatbot**](https://github.com/Supriya0405) | Python · Gradio · MongoDB · SQLite · STT/TTS · LLM | Voice-enabled AI healthcare assistant with symptom analysis, speech I/O, and secure patient chat history management |
+| [**Student Management on AWS**](https://github.com/Supriya0405) | AWS EC2 · RDS · VPC · Apache · PHP · MySQL | Cloud-native system with EC2–RDS integration, public/private subnet architecture, and security groups for scalable data management |
 
 </div>
 
@@ -233,10 +233,10 @@ public class Supriya {
   <a href="mailto:supriyavenkatasalapathi005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/supriya-dv">
+  <a href="https://linkedin.com/in/Supriya0405">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/supriya-dv">
+  <a href="https://github.com/Supriya0405">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
